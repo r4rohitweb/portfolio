@@ -180,7 +180,7 @@ function App() {
           <p>Frontend Developer</p>
           <img className="name-intro__portrait" src={images.avatar} alt="Rohit Kumar avatar" />
           <button className="intro-scroll-button" type="button" onClick={openGate}>
-            Scroll down to view full portfolio
+            Click here to view full portfolio
           </button>
         </div>
       </section>
